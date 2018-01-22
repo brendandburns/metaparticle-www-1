@@ -6,7 +6,7 @@ draft: false
 
 ## Metaparticle/Sharding for Go Tutorial
 
-_Note, this is an advanced tutorial, please start with the [initial tutorial](tutorials/go)_
+_Note, this is an advanced tutorial, please start with the [initial tutorial](/tutorials/go)_
 
 ### Sharding
 Sharding is the process of dividing requests between a server using some characteristic 
